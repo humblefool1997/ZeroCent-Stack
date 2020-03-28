@@ -1,4 +1,4 @@
-# ZeroCent-Stack
+# Zero Cent-Stack
 How to run your apps without paying a cent 
 
 List of free tier services to use for testing the idea 
