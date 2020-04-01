@@ -5,7 +5,7 @@ List of free tier services to use for testing the idea
 
 | Functionality 	| Service 	| Link 	| Limit Free Tier 	|
 |---------------------------	|:---------------------:	|-----:	|-----------------	|
-| Database 	| DynamoDB 	| (link)[https://aws.amazon.com/dynamodb/] 	|   	|
+| Database 	| DynamoDB 	| [link]([https://aws.amazon.com/dynamodb/)	|   	|
 | Backend 	| AWS Lambda 	|  	|  	|
 | Frontend 	| Netlify / Now / Surge /Github-Pages 	|  	|  	|
 | File/Image hosting 	| AWS S3 	|  	|  	|
