@@ -8,10 +8,10 @@ List of free tier services to use for testing the idea
 | Database 	| DynamoDB 	| [link](https://aws.amazon.com/dynamodb/)	|   	|
 | Backend 	| AWS Lambda 	| [link](https://aws.amazon.com/lambda/)  	|  	|
 | Frontend 	| Netlify / Now / Surge /Github-Pages 	| [now](https://zeit.co/) [netlify](https://www.netlify.com/) [surge](https://surge.sh/) [Github Pages ](https://pages.github.com/) 	|  	|
-| File/Image hosting 	| [AWS S3](https://aws.amazon.com/s3/) 	|  	|  	|
-| Image hosting 	| [Cloudinary](https://cloudinary.com/) 	|  	|  	|
-| Webhook for cron 	| [IFTTT](https://platform.ifttt.com/)	|  	|  	|
-| Queues, Cache 	| [RedisLabs](https://redislabs.com/redis-enterprise-cloud/pricing/) 	|  	|  	|
+| File/Image hosting | AWS S3	| [AWS S3](https://aws.amazon.com/s3/) 	|  	|  	|
+| Image hosting 	| Cloudinary |[Cloudinary](https://cloudinary.com/) 	|  	|  	|
+| Webhook for cron | IFTTT	| [IFTTT](https://platform.ifttt.com/)	|  	|  	|
+| Queues, Cache 	| RedisLabs | [RedisLabs](https://redislabs.com/redis-enterprise-cloud/pricing/) |  	|
 | Designing and Prototyping 	| Figma 	| [Figma](https://www.figma.com/pricing/) 	|  	|
 | Com domains 	| Porkbun($6) |  [Porkbun](https://porkbun.com/)	|  	|
 | DNS 	| FreeDNS	| [FreeDNS](https://freedns.afraid.org/) 	|  	|
