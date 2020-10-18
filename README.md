@@ -17,4 +17,4 @@ List of free tier services to use for testing the idea
 | Designing and Prototyping 	| Figma 	| [Figma](https://www.figma.com/pricing/) 	|  	|
 | Com domains 	| Porkbun($6) |  [Porkbun](https://porkbun.com/)	|  	|
 | DNS 	| FreeDNS	| [FreeDNS](https://freedns.afraid.org/) 	|  	|
-
+|Data Sharing Platform | Low Code        |[streamlit.io](https://www.streamlit.io/sharing-sign-up) | 
