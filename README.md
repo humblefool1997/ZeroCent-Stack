@@ -6,6 +6,8 @@ List of free tier services to use for testing the idea
 | Functionality 	| Service 	| Link 	| Limit Free Tier 	|
 |---------------------------	|:---------------------:	|-----:	|-----------------	|
 | Database 	| DynamoDB 	| [link](https://aws.amazon.com/dynamodb/)	|   	|
+| Database 	| MongoDB Atlas	| [Link](https://www.mongodb.com/cloud/atlas/register) 	|   	|
+| Database 	| Firebase	| [Link](https://firebase.google.com/pricing) 	|   	|
 | Backend 	| AWS Lambda 	| [link](https://aws.amazon.com/lambda/)  	|  	|
 | Frontend 	| Netlify / Now / Surge /Github-Pages 	| [now](https://zeit.co/) [netlify](https://www.netlify.com/) [surge](https://surge.sh/) [Github Pages ](https://pages.github.com/) 	|  	|
 | File/Image hosting | AWS S3	| [AWS S3](https://aws.amazon.com/s3/) 	|  	|  	|
